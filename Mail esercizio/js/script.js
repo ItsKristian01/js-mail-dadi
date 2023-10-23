@@ -20,6 +20,9 @@ for (let i = 0 ; i < emailAccess.length ; i++) {
 
 if (access) {
     console.log ("La tua email e' presente puoi accedere");
+    document.getElementById("result").innerHTML = "La tua email e' presente puoi accedere"
 } else {
     console.log ("La tua email non e' presente nella lista d'accesso. Non puoi ACCEDERE!");
+    document.getElementById("result").innerHTML = "La tua email non e' presente nella lista d'accesso. Non puoi ACCEDERE!"
 }
+
