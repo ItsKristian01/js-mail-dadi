@@ -1,6 +1,6 @@
 
 
-### ESERCIZIO: Biglietto Treno
+### ESERCIZIO: GIOCO DEI DADI
 
 ---
 
